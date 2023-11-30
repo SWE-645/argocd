@@ -30,7 +30,7 @@ metadata:
       operation: Update
       time: '2023-11-28T01:28:58Z'
   name: springboot-hw3
-  namespace: hw2
+  namespace: argocd1
   resourceVersion: '1176744'
   uid: 1679fd42-8dc2-48a9-88e1-b58e33baea22
 spec:
