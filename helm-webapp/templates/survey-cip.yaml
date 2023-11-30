@@ -44,13 +44,6 @@ metadata:
   resourceVersion: '16539'
   uid: 631d2a8f-2c63-4df8-8d6c-348152027d44
 spec:
-  clusterIP: 10.43.226.18
-  clusterIPs:
-    - 10.43.226.18
-  internalTrafficPolicy: Cluster
-  ipFamilies:
-    - IPv4
-  ipFamilyPolicy: SingleStack
   ports:
     - name: survey
       port: 8080
