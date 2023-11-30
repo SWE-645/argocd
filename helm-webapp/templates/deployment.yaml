@@ -115,7 +115,7 @@ metadata:
       subresource: status
       time: '2023-11-30T03:50:27Z'
   name: survey
-  namespace: hw2
+  namespace: argocd1
   resourceVersion: '1514644'
   uid: 61e5b7df-4dea-41db-bca6-319099a20e52
 spec:
@@ -135,7 +135,7 @@ spec:
       creationTimestamp: null
       labels:
         workload.user.cattle.io/workloadselector: apps.deployment-hw2-survey
-      namespace: hw2
+      namespace: argocd1
     spec:
       affinity: {}
       containers:
